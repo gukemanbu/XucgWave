@@ -14,7 +14,6 @@
 		9EE834FF1D75524200E6F67B /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EE834FD1D75524200E6F67B /* RootViewController.m */; };
 		9EE835001D75524200E6F67B /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9EE834FE1D75524200E6F67B /* RootViewController.xib */; };
 		9EE835041D7555B400E6F67B /* XucgWave.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EE835031D7555B400E6F67B /* XucgWave.m */; };
-		9EE8350A1D7589E100E6F67B /* aaaa.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EE835091D7589E100E6F67B /* aaaa.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +29,6 @@
 		9EE834FE1D75524200E6F67B /* RootViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
 		9EE835021D7555B400E6F67B /* XucgWave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XucgWave.h; sourceTree = "<group>"; };
 		9EE835031D7555B400E6F67B /* XucgWave.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XucgWave.m; sourceTree = "<group>"; };
-		9EE835081D7589E100E6F67B /* aaaa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aaaa.h; sourceTree = "<group>"; };
-		9EE835091D7589E100E6F67B /* aaaa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaaa.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,8 +71,6 @@
 				9EE834F31D75520200E6F67B /* LaunchScreen.storyboard */,
 				9EE834F61D75520200E6F67B /* Info.plist */,
 				9EE834E51D75520200E6F67B /* Supporting Files */,
-				9EE835081D7589E100E6F67B /* aaaa.h */,
-				9EE835091D7589E100E6F67B /* aaaa.m */,
 			);
 			path = XucgWave;
 			sourceTree = "<group>";
@@ -169,7 +164,6 @@
 			files = (
 				9EE834EA1D75520200E6F67B /* AppDelegate.m in Sources */,
 				9EE834E71D75520200E6F67B /* main.m in Sources */,
-				9EE8350A1D7589E100E6F67B /* aaaa.m in Sources */,
 				9EE834FF1D75524200E6F67B /* RootViewController.m in Sources */,
 				9EE835041D7555B400E6F67B /* XucgWave.m in Sources */,
 			);
@@ -314,6 +308,7 @@
 				9EE834FB1D75520200E6F67B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
